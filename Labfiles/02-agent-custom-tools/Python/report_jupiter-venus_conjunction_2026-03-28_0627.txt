@@ -1,0 +1,23 @@
+======================================
+  CONTOSO OBSERVATORIES - SESSION REPORT
+======================================
+Date:           2026-03-28 06:27
+Observer:       Bellows College
+Event:          Jupiter-Venus Conjunction
+Location:       Europe
+
+NEXT VISIBLE EVENT
+  Event:        Lyrids Meteor Shower
+  Date:         04-22
+
+TELESCOPE BOOKING
+  Tier:         premium
+  Hours:        5
+  Hourly Rate:  $300.00
+  Priority:     normal
+  Multiplier:   1.25x
+
+COST SUMMARY
+  Base Cost:    $1500.00
+  Total Cost:   $1875.00
+======================================
